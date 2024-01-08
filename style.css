@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(250, 250, 250);
+    font-size: 14pts;
+    font-family: 'Open Sans', Tahoma, sans-serif;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(10, 10, 10);
+}
+
+h1 {
+    color: black;
+    font-size: 3em;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
